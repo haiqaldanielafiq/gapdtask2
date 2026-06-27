@@ -1,0 +1,20 @@
+
+> math-man@0.1.0 dev
+> next dev -p 3005
+
+   ▲ Next.js 15.0.3
+   - Local:        http://localhost:3005
+
+ ✓ Starting...
+ ✓ Ready in 1837ms
+ ○ Compiling / ...
+ ✓ Compiled / in 6.8s (1326 modules)
+ HEAD / 200 in 7373ms
+ ✓ Compiled in 805ms (658 modules)
+ GET / 200 in 125ms
+ ○ Compiling /play ...
+ ✓ Compiled /play in 1238ms (1321 modules)
+ GET /play 200 in 1539ms
+ ○ Compiling /game ...
+ ✓ Compiled /game in 1065ms (1407 modules)
+ GET /game?topic=Addition&year=1 200 in 1284ms
