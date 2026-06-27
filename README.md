@@ -1,11 +1,20 @@
-# Math-Man Base
+# Math Man
 
-Base scaffold for a Pac-Man inspired educational math game.
+An educational arcade maze game combining classic gameplay with Malaysian primary school Mathematics quizzes.
 
-## Stack
-- Next.js
-- React
+## Tech Stack
+- Next.js 15
+- React 19
 - TypeScript
 - Tailwind CSS
+- Framer Motion
+- Zustand
+- Howler.js
+- Canvas API
 
-Use this as a starting point for further development.
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
